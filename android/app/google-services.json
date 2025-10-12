@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "437694063639",
+    "project_id": "desafioloomi-18686",
+    "storage_bucket": "desafioloomi-18686.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437694063639:android:6f0b446c39a3bc9adfe852",
+        "android_client_info": {
+          "package_name": "br.com.furlaneto.murilo.desafio_loomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437694063639-p1ltqd1o21fnu2fnucid1fh22qvrv94v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.furlaneto.murilo.desafio_loomi",
+            "certificate_hash": "527d22a589dd01cb95f41c0829576fa0713de4cd"
+          }
+        },
+        {
+          "client_id": "437694063639-i4p2hklqbu6g59lq11ugng5sumt2t0q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5j9x7L3MKClF-mnmLXMLbf1fpHgl3pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437694063639-i4p2hklqbu6g59lq11ugng5sumt2t0q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437694063639-bkvdg83j4t5umc0hjq0n0v39b33uuao7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.furlaneto.murilo.desafio.loomi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
